@@ -1,5 +1,4 @@
-# ChatBot
-# Chatbot API
+# ChatBot-API
 # Calm PLatform:
 
 - ###  calM is a CPU architecture learning machine designed for educational purposes, offering a simplified representation of fundamental CPU concepts to aid in understanding computer architecture.
